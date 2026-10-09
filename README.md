@@ -63,9 +63,8 @@ I'm interested in collaborating on **Generative AI, RAG, semantic
 search, NLP, and document intelligence** projects.
 
 -  **GitHub:** [https://github.com/divyakarthyayani](https://github.com/divyakarthyayani)
--   **LinkedIn:** \[www.linkedin.com/in/divyasaju\]
--   **Email:** \[divya.karthyayani@gmail.com\]
-
+- **LinkedIn:** [https://www.linkedin.com/in/divyasaju](https://www.linkedin.com/in/divyasaju)
+- **Email:** [divya.karthyayani@gmail.com](mailto:divya.karthyayani@gmail.com)
 ------------------------------------------------------------------------
 
 *Building useful AI systems, one project at a time.* 🚀

@@ -62,7 +62,7 @@ Here are some of the AI projects I'm building and exploring:
 I'm interested in collaborating on **Generative AI, RAG, semantic
 search, NLP, and document intelligence** projects.
 
--   **GitHub:** \[https://github.com/divyakarthyayani\]
+-  **GitHub:** [https://github.com/divyakarthyayani](https://github.com/divyakarthyayani)
 -   **LinkedIn:** \[www.linkedin.com/in/divyasaju\]
 -   **Email:** \[divya.karthyayani@gmail.com\]
 
